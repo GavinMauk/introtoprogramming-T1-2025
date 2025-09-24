@@ -1,1 +1,2 @@
-# introtoprogramming-T1-2025
+# Gavin Mauk
+my name is Gavin and I am a student at STMA Highschool.
