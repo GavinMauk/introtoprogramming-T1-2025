@@ -15,5 +15,3 @@ def floor_division():
     print((a//b))
 def modulus():
     print((a%b))
-
-floor_division()

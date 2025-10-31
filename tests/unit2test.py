@@ -18,4 +18,4 @@ def data_three():
     d=(int(integer) + float(float1))
     print(str(d)+word)
 
-
+data_three()
